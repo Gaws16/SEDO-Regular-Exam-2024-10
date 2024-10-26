@@ -1,0 +1,13 @@
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.deps.json
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.runtimeconfig.json
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.dll
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\bin\Debug\net6.0\HouseRentingSystem.Services.pdb
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.AssemblyReference.cache
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfoInputs.cache
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.AssemblyInfo.cs
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.csproj.CoreCompileInputs.cache
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.sourcelink.json
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.dll
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.pdb
+c:\Users\gaws1\Desktop\DevOps\SEDO-Regular-Exam-2024-10\HouseRentingSystem.Services\obj\Debug\net6.0\HouseRentingSystem.Services.genruntimeconfig.cache
